@@ -15,8 +15,8 @@ myfunc()
 // i did above is write a simple word in console but did not run present 
 //now i can call or run my code that is in myFunc function by simply calling myFunc()
 
-function abcd(a, b,c ){// parameters
+function abcd(a, b,c ){// parameters==  are  variables where arguments value are stored
   console.log(a, b,c)
 }
 
-abcd(12, 13, 14)// arguments
+abcd(12, 13, 14)// arguments=the real value, what we give while running our function/ pass to the parameters
