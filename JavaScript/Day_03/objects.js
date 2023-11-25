@@ -43,3 +43,10 @@ gadgets.color="red"
 console.log(gadgets.color)
 
 
+//how to delete object's prop
+
+delete gadgets.autoChrage
+console.log(gadgets)
+//delete key autoCharge on object gadgets
+
+
